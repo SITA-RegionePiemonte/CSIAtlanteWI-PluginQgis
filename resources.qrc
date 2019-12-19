@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/CSIAtlanteWI" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

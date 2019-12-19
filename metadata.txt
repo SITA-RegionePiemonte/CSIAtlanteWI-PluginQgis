@@ -1,0 +1,34 @@
+# This file should be included when you package your plugin.
+# Mandatory items:
+
+[general]
+name=CSI Atlante WI
+qgisMinimumVersion=3.4
+description=CSI Atlante Web Interfaces
+version=1.0.5
+author=CSI Piemonte
+email=cartografia@csi.it
+
+about=CSI Atlante Web Interfaces
+
+tracker=http://www.csipiemonte.it
+repository=https://opengis.csi.it/qgis/plugins/plugins.xml
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=csi,open data,atlante,catalogo,dati,regione,piemonte
+
+homepage=https://opengis.csi.it
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
