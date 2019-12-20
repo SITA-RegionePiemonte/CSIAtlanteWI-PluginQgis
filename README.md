@@ -9,14 +9,9 @@ dove gli amministratori del Sistema Informativo Territoriale (SIT)
 guidano, attraverso un catalogo strutturato, gli utilizzatori finali di QGIS all'accesso 
 ai dati vettoriali (PostGIS) e ai geoservizi (WMS) di riferimento.
 
-Il sistema è composto da tre componenti principali :
+Questa è la componente client per la gestione delle 
+alberature di dati e servizi (Plugin Qgis 3.4)
 
-- Plugin Qgis 3.4 : componente client per la gestione delle alberature di dati e servizi
-- Modulo Drupal8 : componente per la gestione dell'autenticazione, profilazione utente ed erogazione dati
-- Backoffice : componente per l'alimentazione della base dati utile alla pubblicazione
-
-In questa fase viene pubblicata esclusivamente la prima componente (https://github.com/SITA-RegionePiemonte/CSIAtlanteWI-PluginQgis). 
-Nell'arco del 2020 saranno pubblicati anche il Modulo Drupal e, a seguire, il backoffice.
 
 Le differenze principali rispetto alla versione precedente sono le seguenti :
 
@@ -35,10 +30,6 @@ Le differenze principali rispetto alla versione precedente sono le seguenti :
 * Tematizzazione dati geografici
 * Profilazione per utenti e gruppi di utenti
 
-## Screenshots:
-
-# Configurations 
-(Optional)
 
 # Getting Started
 Per utilizzare correttamente quanto presente nel repository, è necessario impostare alcuni parametri:
@@ -77,10 +68,8 @@ We use Semantic Versioning for versioning. (http://semver.org)
 See the list of contributors who participated inthis project in file Author.md 
 
 # Copyrights
-© Copyright: Regione Piemonte 2012-2019
+© Copyright: Regione Piemonte 2019
 
-# License
-See the LICENSE.md file for details
 
 
 
